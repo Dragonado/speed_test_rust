@@ -5,3 +5,4 @@ edition = "2024"
 
 [dependencies]
 random_word = { version = "0.5.0" , features = ["en"] }
+tiny_http = "0.12.0"
